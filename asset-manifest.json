@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tailwind/static/css/main.4c8f7b31.chunk.css",
+    "main.js": "/tailwind/static/js/main.91985095.chunk.js",
+    "main.js.map": "/tailwind/static/js/main.91985095.chunk.js.map",
+    "runtime-main.js": "/tailwind/static/js/runtime-main.b3545ee0.js",
+    "runtime-main.js.map": "/tailwind/static/js/runtime-main.b3545ee0.js.map",
+    "static/js/2.13f428ec.chunk.js": "/tailwind/static/js/2.13f428ec.chunk.js",
+    "static/js/2.13f428ec.chunk.js.map": "/tailwind/static/js/2.13f428ec.chunk.js.map",
+    "index.html": "/tailwind/index.html",
+    "precache-manifest.5239f13eafc796b6960649126928046d.js": "/tailwind/precache-manifest.5239f13eafc796b6960649126928046d.js",
+    "service-worker.js": "/tailwind/service-worker.js",
+    "static/css/main.4c8f7b31.chunk.css.map": "/tailwind/static/css/main.4c8f7b31.chunk.css.map",
+    "static/js/2.13f428ec.chunk.js.LICENSE.txt": "/tailwind/static/js/2.13f428ec.chunk.js.LICENSE.txt",
+    "static/media/dj.svg": "/tailwind/static/media/dj.cfc690b3.svg",
+    "static/media/logo.svg": "/tailwind/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3545ee0.js",
+    "static/js/2.13f428ec.chunk.js",
+    "static/css/main.4c8f7b31.chunk.css",
+    "static/js/main.91985095.chunk.js"
+  ]
+}
